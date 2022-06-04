@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://erinhuang-dot.github.io/portfolio/"
+baseURL = "https://erinhuang-dot.github.io/"
 title = "Portfolio | Erin YP Huang"
 theme = "somrat"
 # post pagination
